@@ -7,5 +7,5 @@ from cpu import *
 
 cpu = CPU()
 
-cpu.load('stack.ls8')
+cpu.load('sprint.ls8')
 cpu.run()
